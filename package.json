@@ -1,0 +1,41 @@
+{
+  "name": "bibliotheque",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "vitest run tests/unit tests/integration",
+    "test:e2e": "playwright test",
+    "check": "npm run test && npm run build && npm run books -- validate public/books/le_petit_prince/1/manifest.json && npm run books -- validate public/books/arsene_lupin/1/manifest.json",
+    "books": "node --env-file-if-exists=.env --import tsx scripts/books.ts"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.12.1",
+    "fflate": "^0.8.2",
+    "lucide-react": "^0.468.0",
+    "microsoft-cognitiveservices-speech-sdk": "^1.47.0",
+    "pdfjs-dist": "^4.10.38",
+    "pngjs": "^7.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^22.10.0",
+    "@types/pngjs": "^6.0.5",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "prettier": "^3.10.1",
+    "tsx": "^4.20.0",
+    "typescript": "~5.9.3",
+    "vite": "^6.4.0",
+    "vitest": "^5.1.0"
+  }
+}

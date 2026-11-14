@@ -1,0 +1,257 @@
+{
+  "duration": 13.15,
+  "words": [
+    {
+      "start": 0.05,
+      "end": 0.4375,
+      "offset": 0,
+      "length": 7,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 0.45,
+      "end": 0.7125,
+      "offset": 8,
+      "length": 7,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 0.725,
+      "end": 0.8875,
+      "offset": 16,
+      "length": 3,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 0.9,
+      "end": 1.025,
+      "offset": 20,
+      "length": 3,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 1.0375,
+      "end": 1.1875,
+      "offset": 24,
+      "length": 4,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 1.2,
+      "end": 1.4,
+      "offset": 29,
+      "length": 2,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 1.7,
+      "end": 1.8,
+      "offset": 33,
+      "length": 3,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 1.8125,
+      "end": 2.0875,
+      "offset": 37,
+      "length": 4,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 2.4,
+      "end": 2.475,
+      "offset": 43,
+      "length": 3,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 2.4875,
+      "end": 2.925,
+      "offset": 47,
+      "length": 10,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 2.9375,
+      "end": 3.35,
+      "offset": 58,
+      "length": 5,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 3.65,
+      "end": 3.775,
+      "offset": 65,
+      "length": 4,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 3.7875,
+      "end": 3.9125,
+      "offset": 70,
+      "length": 2,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 3.925,
+      "end": 4.2124999999999995,
+      "offset": 73,
+      "length": 5,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 4.225,
+      "end": 4.35,
+      "offset": 79,
+      "length": 3,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 4.3625,
+      "end": 4.4624999999999995,
+      "offset": 83,
+      "length": 2,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 4.475,
+      "end": 4.725,
+      "offset": 86,
+      "length": 5,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 4.7375,
+      "end": 5.05,
+      "offset": 92,
+      "length": 6,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 5.0625,
+      "end": 5.2,
+      "offset": 99,
+      "length": 3,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 5.2125,
+      "end": 5.6625000000000005,
+      "offset": 103,
+      "length": 10,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 5.9,
+      "end": 6.237500000000001,
+      "offset": 116,
+      "length": 9,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 6.25,
+      "end": 6.6625,
+      "offset": 126,
+      "length": 6,
+      "segmentId": "ch01_s001"
+    },
+    {
+      "start": 7.5249999999999995,
+      "end": 7.75,
+      "offset": 0,
+      "length": 2,
+      "segmentId": "ch01_s002"
+    },
+    {
+      "start": 7.762499999999999,
+      "end": 8.3875,
+      "offset": 3,
+      "length": 12,
+      "segmentId": "ch01_s002"
+    },
+    {
+      "start": 8.4,
+      "end": 8.487499999999999,
+      "offset": 16,
+      "length": 2,
+      "segmentId": "ch01_s002"
+    },
+    {
+      "start": 8.5,
+      "end": 8.862499999999999,
+      "offset": 19,
+      "length": 7,
+      "segmentId": "ch01_s002"
+    },
+    {
+      "start": 8.875,
+      "end": 9.087499999999999,
+      "offset": 27,
+      "length": 3,
+      "segmentId": "ch01_s002"
+    },
+    {
+      "start": 9.1,
+      "end": 9.2875,
+      "offset": 31,
+      "length": 3,
+      "segmentId": "ch01_s002"
+    },
+    {
+      "start": 9.299999999999999,
+      "end": 9.5625,
+      "offset": 35,
+      "length": 7,
+      "segmentId": "ch01_s002"
+    },
+    {
+      "start": 9.575,
+      "end": 9.6625,
+      "offset": 43,
+      "length": 2,
+      "segmentId": "ch01_s002"
+    },
+    {
+      "start": 9.675,
+      "end": 10.15,
+      "offset": 46,
+      "length": 5,
+      "segmentId": "ch01_s002"
+    },
+    {
+      "start": 11.025,
+      "end": 11.3375,
+      "offset": 0,
+      "length": 5,
+      "segmentId": "ch01_s003"
+    },
+    {
+      "start": 11.35,
+      "end": 11.45,
+      "offset": 6,
+      "length": 2,
+      "segmentId": "ch01_s003"
+    },
+    {
+      "start": 11.4625,
+      "end": 11.775,
+      "offset": 9,
+      "length": 5,
+      "segmentId": "ch01_s003"
+    },
+    {
+      "start": 11.7875,
+      "end": 11.8875,
+      "offset": 15,
+      "length": 2,
+      "segmentId": "ch01_s003"
+    },
+    {
+      "start": 11.9,
+      "end": 12.3375,
+      "offset": 18,
+      "length": 6,
+      "segmentId": "ch01_s003"
+    }
+  ]
+}

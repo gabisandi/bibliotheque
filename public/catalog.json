@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "books": [
+    {
+      "id": "le_petit_prince",
+      "manifest": "/books/le_petit_prince/1/manifest.json"
+    },
+    {
+      "id": "arsene_lupin",
+      "manifest": "/books/arsene_lupin/1/manifest.json"
+    }
+  ],
+  "entries": [
+    {
+      "date": "2026-11-14",
+      "title": "Arsène Lupin chega à estante.",
+      "text": "Uma nova capa em aquarela e o primeiro conto de Maurice Leblanc, disponível em francês. A tradução e a narração ainda estão em preparação.",
+      "tag": "Novo livro"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Toda biblioteca começa com uma história.",
+      "text": "Abrimos as primeiras páginas da Bibliothèque com Le Petit Prince: um capítulo em francês e português, ilustrações originais, narração sincronizada e uma nova capa em aquarela. A prévia pública continua em revisão editorial.",
+      "tag": "O começo"
+    }
+  ]
+}

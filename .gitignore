@@ -1,0 +1,17 @@
+# Local dependencies and build output
+node_modules/
+dist/
+.vercel/
+playwright-report/
+test-results/
+*.tsbuildinfo
+.DS_Store
+
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Private editorial sources, audio cache and exports
+editorial/
+backups/

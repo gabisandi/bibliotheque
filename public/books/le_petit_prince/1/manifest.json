@@ -1,0 +1,4101 @@
+{
+  "schemaVersion": 1,
+  "id": "le_petit_prince",
+  "edition": "1",
+  "title": "Le Petit Prince",
+  "translatedTitle": "O Pequeno Príncipe",
+  "author": "Antoine de Saint-Exupéry",
+  "description": "Um encontro no deserto. Um pequeno viajante. Uma história sobre amizade, cuidado e aquilo que os olhos não conseguem ver. Redescubra um clássico, uma palavra de cada vez.",
+  "sourceLanguage": "fr",
+  "targetLanguage": "pt-BR",
+  "cover": "/books/le_petit_prince/1/cover.png",
+  "accent": "#75805c",
+  "status": "preview",
+  "source": {
+    "name": "PETIT-PRINCE-LE-Antoine-de-Saint-Exupery.pdf",
+    "rights": "pending",
+    "credit": "Texto e ilustrações de Antoine de Saint-Exupéry. Arquivo fornecido pela proprietária; direitos territoriais em revisão."
+  },
+  "voices": {
+    "narrator": "fr-FR-HenriNeural",
+    "prince": "fr-FR-EloiseNeural",
+    "rose": "fr-FR-DeniseNeural",
+    "adult": "fr-FR-AlainNeural"
+  },
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Premier chapitre",
+      "subtitle": "Capítulo 1",
+      "segments": [
+        {
+          "id": "ch01_s001",
+          "fr": "Lorsque j’avais six ans j’ai vu, une fois, une magnifique image, dans un livre sur la Forêt Vierge qui s’appelait « Histoires Vécues ».",
+          "pt": "Quando eu tinha seis anos, vi certa vez uma imagem magnífica num livro sobre a Floresta Virgem chamado “Histórias Vividas”.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                0,
+                7
+              ],
+              "pt": [
+                0,
+                6
+              ],
+              "note": "Introduz o momento em que a história acontece."
+            },
+            {
+              "fr": [
+                8,
+                23
+              ],
+              "pt": [
+                7,
+                25
+              ],
+              "note": "Em francês, a idade é expressa com o verbo avoir: ter."
+            },
+            {
+              "fr": [
+                33,
+                41
+              ],
+              "pt": [
+                30,
+                39
+              ],
+              "note": "Aqui indica uma ocasião passada."
+            },
+            {
+              "fr": [
+                43,
+                63
+              ],
+              "pt": [
+                40,
+                60
+              ],
+              "note": "O adjetivo pode aparecer antes do substantivo em francês."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s002",
+          "fr": "Ça représentait un serpent boa qui avalait un fauve.",
+          "pt": "Ela mostrava uma jiboia engolindo uma fera.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                16,
+                30
+              ],
+              "pt": [
+                13,
+                23
+              ],
+              "note": "Nome do animal, não uma tradução literal de cada palavra."
+            },
+            {
+              "fr": [
+                43,
+                51
+              ],
+              "pt": [
+                34,
+                42
+              ],
+              "note": "Animal selvagem; neste contexto, uma grande fera."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s003",
+          "fr": "Voilà la copie du dessin.",
+          "pt": "Aqui está uma cópia do desenho.",
+          "speaker": "narrator",
+          "image": "/books/le_petit_prince/1/images/page_03_1.jpg",
+          "imageAlt": "Uma jiboia engole uma fera: ilustração original.",
+          "annotations": [
+            {
+              "fr": [
+                15,
+                24
+              ],
+              "pt": [
+                20,
+                30
+              ],
+              "note": "Du reúne de + le."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s004",
+          "fr": "On disait dans le livre : « Les serpents boas avalent leur proie tout entière, sans la mâcher.",
+          "pt": "O livro dizia: “As jiboias engolem suas presas inteiras, sem mastigar.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                28,
+                45
+              ],
+              "pt": [
+                16,
+                26
+              ],
+              "note": "Tradução neste trecho da história."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s005",
+          "fr": "Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion. » J’ai alors beaucoup réfléchi sur les aventures de la jungle et, à mon tour, j’ai réussi, avec un crayon de couleur, à tracer mon premier dessin.",
+          "pt": "Depois, não conseguem mais se mover e dormem durante os seis meses da digestão.” Refleti muito sobre as aventuras da selva e, por minha vez, consegui traçar meu primeiro desenho com um lápis de cor.",
+          "speaker": "narrator",
+          "annotations": []
+        },
+        {
+          "id": "ch01_s006",
+          "fr": "Mon dessin numéro 1.",
+          "pt": "Meu desenho número 1.",
+          "speaker": "narrator",
+          "annotations": []
+        },
+        {
+          "id": "ch01_s007",
+          "fr": "Il était comme ça : J’ai montré mon chef-d’œuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur.",
+          "pt": "Era assim: mostrei minha obra-prima aos adultos e perguntei se meu desenho lhes dava medo.",
+          "speaker": "narrator",
+          "image": "/books/le_petit_prince/1/images/page_03_2.jpg",
+          "imageAlt": "O primeiro desenho do narrador: uma jiboia que engoliu um elefante.",
+          "annotations": [
+            {
+              "fr": [
+                49,
+                70
+              ],
+              "pt": [
+                36,
+                47
+              ],
+              "note": "Expressão para pessoas adultas."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s008",
+          "fr": "Elles m’ont répondu : « Pourquoi un chapeau ferait-il peur ? » Mon dessin ne représentait pas un chapeau.",
+          "pt": "Eles responderam: “Por que um chapéu daria medo?” Meu desenho não representava um chapéu.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                33,
+                43
+              ],
+              "pt": [
+                27,
+                36
+              ],
+              "note": "Tradução neste trecho da história."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s009",
+          "fr": "Il représentait un serpent boa qui digérait un éléphant.",
+          "pt": "Representava uma jiboia digerindo um elefante.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                16,
+                30
+              ],
+              "pt": [
+                13,
+                23
+              ],
+              "note": "Nome do animal, não uma tradução literal de cada palavra."
+            },
+            {
+              "fr": [
+                44,
+                55
+              ],
+              "pt": [
+                34,
+                45
+              ],
+              "note": "Tradução neste trecho da história."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s010",
+          "fr": "J’ai alors dessiné l’intérieur du serpent boa, afin que les grandes personnes puissent comprendre.",
+          "pt": "Então desenhei o interior da jiboia, para que os adultos pudessem compreender.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                56,
+                77
+              ],
+              "pt": [
+                46,
+                56
+              ],
+              "note": "Expressão para pessoas adultas; não significa pessoas altas neste contexto."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s011",
+          "fr": "Elles ont toujours besoin d’explications.",
+          "pt": "Eles sempre precisam de explicações.",
+          "speaker": "narrator",
+          "annotations": []
+        },
+        {
+          "id": "ch01_s012",
+          "fr": "Mon dessin numéro 2 était comme ça : Les grandes personnes m’ont conseillé de laisser de côté les dessins de serpents boas ouverts ou fermés, et de m’intéresser plutôt à la géographie, à l’histoire, au calcul et à la grammaire.",
+          "pt": "Meu desenho número 2 era assim: os adultos me aconselharam a deixar de lado os desenhos de jiboias abertas ou fechadas e a me interessar por geografia, história, cálculo e gramática.",
+          "speaker": "narrator",
+          "image": "/books/le_petit_prince/1/images/page_04_1.jpg",
+          "imageAlt": "O segundo desenho revela o elefante no interior da jiboia.",
+          "annotations": []
+        },
+        {
+          "id": "ch01_s013",
+          "fr": "C’est ainsi que j’ai abandonné, à l’âge de six ans, une magnifique carrière de peintre.",
+          "pt": "Foi assim que abandonei, aos seis anos, uma magnífica carreira de pintor.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                32,
+                50
+              ],
+              "pt": [
+                25,
+                38
+              ],
+              "note": "Expressão que indica idade."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s014",
+          "fr": "J’avais été découragé par l’insuccès de mon dessin numéro 1 et de mon dessin numéro 2.",
+          "pt": "Eu havia desanimado com o fracasso dos meus desenhos número 1 e número 2.",
+          "speaker": "narrator",
+          "annotations": []
+        },
+        {
+          "id": "ch01_s015",
+          "fr": "Les grandes personnes ne comprennent jamais rien toutes seules, et c’est fatigant, pour les enfants, de toujours et toujours leur donner des explications.",
+          "pt": "Os adultos nunca compreendem nada sozinhos, e é cansativo, para as crianças, ter de lhes dar explicações sem parar.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                0,
+                21
+              ],
+              "pt": [
+                0,
+                10
+              ],
+              "note": "Tradução neste trecho da história."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s016",
+          "fr": "J’ai donc dû choisir un autre métier et j’ai appris à piloter des avions.",
+          "pt": "Precisei então escolher outra profissão e aprendi a pilotar aviões.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                21,
+                36
+              ],
+              "pt": [
+                24,
+                39
+              ],
+              "note": "Tradução neste trecho da história."
+            },
+            {
+              "fr": [
+                52,
+                72
+              ],
+              "pt": [
+                50,
+                66
+              ],
+              "note": "Tradução neste trecho da história."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s017",
+          "fr": "J’ai volé un peu partout dans le monde.",
+          "pt": "Voei um pouco por todo o mundo.",
+          "speaker": "narrator",
+          "annotations": []
+        },
+        {
+          "id": "ch01_s018",
+          "fr": "Et la géographie, c’est exact, m’a beaucoup servi.",
+          "pt": "E a geografia, de fato, me foi muito útil.",
+          "speaker": "narrator",
+          "annotations": []
+        },
+        {
+          "id": "ch01_s019",
+          "fr": "Je savais reconnaître, du premier coup d’œil, la Chine de l’Arizona.",
+          "pt": "Eu sabia distinguir, à primeira vista, a China do Arizona.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                23,
+                44
+              ],
+              "pt": [
+                21,
+                37
+              ],
+              "note": "Expressão: reconhecer algo de imediato."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s020",
+          "fr": "C’est très utile, si l’on est égaré pendant la nuit.",
+          "pt": "Isso é muito útil quando se está perdido à noite.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                36,
+                51
+              ],
+              "pt": [
+                41,
+                48
+              ],
+              "note": "Tradução neste trecho da história."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s021",
+          "fr": "J’ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux.",
+          "pt": "Ao longo da vida, tive muitos contatos com muita gente séria.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                0,
+                13
+              ],
+              "pt": [
+                18,
+                22
+              ],
+              "note": "J’ai eu é o passado composto de avoir. Aqui, a expressão foi traduzida por “tive”; ainsi conecta esta frase ao relato anterior."
+            },
+            {
+              "fr": [
+                15,
+                33
+              ],
+              "pt": [
+                0,
+                16
+              ],
+              "note": "A expressão temporal muda de posição na tradução."
+            },
+            {
+              "fr": [
+                35,
+                45
+              ],
+              "pt": [
+                23,
+                29
+              ],
+              "note": "Des tas de exprime uma grande quantidade, equivalente a “muitos” neste contexto."
+            },
+            {
+              "fr": [
+                46,
+                54
+              ],
+              "pt": [
+                30,
+                38
+              ],
+              "note": "Correspondência no contexto desta frase."
+            },
+            {
+              "fr": [
+                55,
+                59
+              ],
+              "pt": [
+                39,
+                42
+              ],
+              "note": "Correspondência no contexto desta frase."
+            },
+            {
+              "fr": [
+                60,
+                75
+              ],
+              "pt": [
+                43,
+                54
+              ],
+              "note": "A quantidade concorda com “gente” na tradução."
+            },
+            {
+              "fr": [
+                76,
+                83
+              ],
+              "pt": [
+                55,
+                60
+              ],
+              "note": "O adjetivo concorda com “gente”, no singular feminino."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s022",
+          "fr": "J’ai beaucoup vécu chez les grandes personnes.",
+          "pt": "Convivi muito com os adultos.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                24,
+                45
+              ],
+              "pt": [
+                18,
+                28
+              ],
+              "note": "Expressão para pessoas adultas; não significa pessoas altas neste contexto."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s023",
+          "fr": "Je les ai vues de très près.",
+          "pt": "Eu os vi bem de perto.",
+          "speaker": "narrator",
+          "annotations": []
+        },
+        {
+          "id": "ch01_s024",
+          "fr": "Ça n’a pas trop amélioré mon opinion.",
+          "pt": "Isso não melhorou muito a minha opinião.",
+          "speaker": "narrator",
+          "annotations": []
+        },
+        {
+          "id": "ch01_s025",
+          "fr": "Quand j’en rencontrais une qui me paraissait un peu lucide, je faisais l’expérience sur elle de mon dessin numéro 1 que j’ai toujours conservé.",
+          "pt": "Quando encontrava alguém que me parecia um pouco lúcido, fazia a experiência do meu desenho número 1, que sempre conservei.",
+          "speaker": "narrator",
+          "annotations": []
+        },
+        {
+          "id": "ch01_s026",
+          "fr": "Je voulais savoir si elle était vraiment compréhensive.",
+          "pt": "Eu queria saber se aquela pessoa era realmente compreensiva.",
+          "speaker": "narrator",
+          "annotations": []
+        },
+        {
+          "id": "ch01_s027",
+          "fr": "Mais toujours elle me répondait : « C’est un chapeau. » Alors je ne lui parlais ni de serpents boas, ni de forêts vierges, ni d’étoiles.",
+          "pt": "Mas ela sempre me respondia: “É um chapéu.” Então eu não lhe falava de jiboias, nem de florestas virgens, nem de estrelas.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                42,
+                52
+              ],
+              "pt": [
+                32,
+                41
+              ],
+              "note": "Tradução neste trecho da história."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s028",
+          "fr": "Je me mettais à sa portée.",
+          "pt": "Eu me colocava ao seu nível.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                14,
+                25
+              ],
+              "pt": [
+                15,
+                27
+              ],
+              "note": "Aqui: adaptar o assunto ao entendimento da outra pessoa."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s029",
+          "fr": "Je lui parlais de bridge, de golf, de politique et de cravates.",
+          "pt": "Falava de bridge, golfe, política e gravatas.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                51,
+                62
+              ],
+              "pt": [
+                36,
+                44
+              ],
+              "note": "Peça de roupa; não é o nome de um pássaro."
+            }
+          ]
+        },
+        {
+          "id": "ch01_s030",
+          "fr": "Et la grande personne était bien contente de connaître un homme aussi raisonnable.",
+          "pt": "E o adulto ficava muito contente de conhecer um homem tão sensato.",
+          "speaker": "narrator",
+          "annotations": [
+            {
+              "fr": [
+                70,
+                81
+              ],
+              "pt": [
+                58,
+                65
+              ],
+              "note": "Tradução neste trecho da história."
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "/books/le_petit_prince/1/audio/chapter_01_6c591c0e559c.wav",
+        "duration": 147.5625,
+        "words": [
+          {
+            "start": 0.05,
+            "end": 0.4375,
+            "offset": 0,
+            "length": 7,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 0.45,
+            "end": 0.7125,
+            "offset": 8,
+            "length": 7,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 0.725,
+            "end": 0.8875,
+            "offset": 16,
+            "length": 3,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 0.9,
+            "end": 1.025,
+            "offset": 20,
+            "length": 3,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 1.0375,
+            "end": 1.1875,
+            "offset": 24,
+            "length": 4,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 1.2,
+            "end": 1.4,
+            "offset": 29,
+            "length": 2,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 1.7,
+            "end": 1.8,
+            "offset": 33,
+            "length": 3,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 1.8125,
+            "end": 2.0875,
+            "offset": 37,
+            "length": 4,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 2.4,
+            "end": 2.475,
+            "offset": 43,
+            "length": 3,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 2.4875,
+            "end": 2.925,
+            "offset": 47,
+            "length": 10,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 2.9375,
+            "end": 3.35,
+            "offset": 58,
+            "length": 5,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 3.65,
+            "end": 3.775,
+            "offset": 65,
+            "length": 4,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 3.7875,
+            "end": 3.9125,
+            "offset": 70,
+            "length": 2,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 3.925,
+            "end": 4.2124999999999995,
+            "offset": 73,
+            "length": 5,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 4.225,
+            "end": 4.35,
+            "offset": 79,
+            "length": 3,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 4.3625,
+            "end": 4.4624999999999995,
+            "offset": 83,
+            "length": 2,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 4.475,
+            "end": 4.725,
+            "offset": 86,
+            "length": 5,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 4.7375,
+            "end": 5.05,
+            "offset": 92,
+            "length": 6,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 5.0625,
+            "end": 5.2,
+            "offset": 99,
+            "length": 3,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 5.2125,
+            "end": 5.6625000000000005,
+            "offset": 103,
+            "length": 10,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 5.9,
+            "end": 6.237500000000001,
+            "offset": 116,
+            "length": 9,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 6.25,
+            "end": 6.6625,
+            "offset": 126,
+            "length": 6,
+            "segmentId": "ch01_s001"
+          },
+          {
+            "start": 7.5249999999999995,
+            "end": 7.75,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s002"
+          },
+          {
+            "start": 7.762499999999999,
+            "end": 8.3875,
+            "offset": 3,
+            "length": 12,
+            "segmentId": "ch01_s002"
+          },
+          {
+            "start": 8.4,
+            "end": 8.487499999999999,
+            "offset": 16,
+            "length": 2,
+            "segmentId": "ch01_s002"
+          },
+          {
+            "start": 8.5,
+            "end": 8.862499999999999,
+            "offset": 19,
+            "length": 7,
+            "segmentId": "ch01_s002"
+          },
+          {
+            "start": 8.875,
+            "end": 9.087499999999999,
+            "offset": 27,
+            "length": 3,
+            "segmentId": "ch01_s002"
+          },
+          {
+            "start": 9.1,
+            "end": 9.2875,
+            "offset": 31,
+            "length": 3,
+            "segmentId": "ch01_s002"
+          },
+          {
+            "start": 9.299999999999999,
+            "end": 9.5625,
+            "offset": 35,
+            "length": 7,
+            "segmentId": "ch01_s002"
+          },
+          {
+            "start": 9.575,
+            "end": 9.6625,
+            "offset": 43,
+            "length": 2,
+            "segmentId": "ch01_s002"
+          },
+          {
+            "start": 9.675,
+            "end": 10.15,
+            "offset": 46,
+            "length": 5,
+            "segmentId": "ch01_s002"
+          },
+          {
+            "start": 11.025,
+            "end": 11.3375,
+            "offset": 0,
+            "length": 5,
+            "segmentId": "ch01_s003"
+          },
+          {
+            "start": 11.35,
+            "end": 11.45,
+            "offset": 6,
+            "length": 2,
+            "segmentId": "ch01_s003"
+          },
+          {
+            "start": 11.4625,
+            "end": 11.775,
+            "offset": 9,
+            "length": 5,
+            "segmentId": "ch01_s003"
+          },
+          {
+            "start": 11.7875,
+            "end": 11.8875,
+            "offset": 15,
+            "length": 2,
+            "segmentId": "ch01_s003"
+          },
+          {
+            "start": 11.9,
+            "end": 12.3375,
+            "offset": 18,
+            "length": 6,
+            "segmentId": "ch01_s003"
+          },
+          {
+            "start": 13.200000000000001,
+            "end": 13.3625,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 13.375,
+            "end": 13.6625,
+            "offset": 3,
+            "length": 6,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 13.675,
+            "end": 13.7875,
+            "offset": 10,
+            "length": 4,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 13.8,
+            "end": 13.875,
+            "offset": 15,
+            "length": 2,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 13.887500000000001,
+            "end": 14.1875,
+            "offset": 18,
+            "length": 5,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 14.387500000000001,
+            "end": 14.4875,
+            "offset": 26,
+            "length": 5,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 14.5,
+            "end": 14.875,
+            "offset": 32,
+            "length": 8,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 14.887500000000001,
+            "end": 15.1,
+            "offset": 41,
+            "length": 4,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 15.1125,
+            "end": 15.3375,
+            "offset": 46,
+            "length": 7,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 15.350000000000001,
+            "end": 15.4875,
+            "offset": 54,
+            "length": 4,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 15.5,
+            "end": 15.700000000000001,
+            "offset": 59,
+            "length": 5,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 15.7125,
+            "end": 15.8625,
+            "offset": 65,
+            "length": 4,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 15.875,
+            "end": 16.4125,
+            "offset": 70,
+            "length": 7,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 16.6625,
+            "end": 16.8,
+            "offset": 79,
+            "length": 4,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 16.8125,
+            "end": 16.8875,
+            "offset": 84,
+            "length": 2,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 16.9,
+            "end": 17.3625,
+            "offset": 87,
+            "length": 6,
+            "segmentId": "ch01_s004"
+          },
+          {
+            "start": 18.2375,
+            "end": 18.675,
+            "offset": 0,
+            "length": 7,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 18.6875,
+            "end": 18.7625,
+            "offset": 8,
+            "length": 3,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 18.775,
+            "end": 18.8875,
+            "offset": 12,
+            "length": 2,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 18.9,
+            "end": 19.125,
+            "offset": 15,
+            "length": 7,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 19.1375,
+            "end": 19.3125,
+            "offset": 23,
+            "length": 4,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 19.325,
+            "end": 19.675,
+            "offset": 28,
+            "length": 6,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 19.6875,
+            "end": 19.7375,
+            "offset": 35,
+            "length": 2,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 19.75,
+            "end": 19.85,
+            "offset": 38,
+            "length": 3,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 19.8625,
+            "end": 20.1125,
+            "offset": 42,
+            "length": 7,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 20.125,
+            "end": 20.4,
+            "offset": 50,
+            "length": 7,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 20.4125,
+            "end": 20.5375,
+            "offset": 58,
+            "length": 3,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 20.55,
+            "end": 20.7125,
+            "offset": 62,
+            "length": 3,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 20.725,
+            "end": 20.8875,
+            "offset": 66,
+            "length": 4,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 20.9,
+            "end": 20.9875,
+            "offset": 71,
+            "length": 2,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 21,
+            "end": 21.1,
+            "offset": 74,
+            "length": 4,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 21.1125,
+            "end": 21.7375,
+            "offset": 79,
+            "length": 9,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 22.6125,
+            "end": 22.875,
+            "offset": 90,
+            "length": 6,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 22.8875,
+            "end": 23.1125,
+            "offset": 97,
+            "length": 5,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 23.125,
+            "end": 23.4125,
+            "offset": 103,
+            "length": 8,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 23.425,
+            "end": 23.9,
+            "offset": 112,
+            "length": 8,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 23.9125,
+            "end": 24.0625,
+            "offset": 121,
+            "length": 3,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 24.075,
+            "end": 24.15,
+            "offset": 125,
+            "length": 3,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 24.1625,
+            "end": 24.6,
+            "offset": 129,
+            "length": 9,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 24.6125,
+            "end": 24.7,
+            "offset": 139,
+            "length": 2,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 24.7125,
+            "end": 24.8,
+            "offset": 142,
+            "length": 2,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 24.8125,
+            "end": 25.15,
+            "offset": 145,
+            "length": 6,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 25.1625,
+            "end": 25.2875,
+            "offset": 152,
+            "length": 2,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 25.55,
+            "end": 25.625,
+            "offset": 156,
+            "length": 1,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 25.6375,
+            "end": 25.775,
+            "offset": 158,
+            "length": 3,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 25.7875,
+            "end": 26.125,
+            "offset": 162,
+            "length": 4,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 26.4625,
+            "end": 26.575000000000003,
+            "offset": 168,
+            "length": 4,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 26.5875,
+            "end": 27.05,
+            "offset": 173,
+            "length": 6,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 27.35,
+            "end": 27.65,
+            "offset": 181,
+            "length": 4,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 27.6625,
+            "end": 27.725,
+            "offset": 186,
+            "length": 2,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 27.7375,
+            "end": 28.0625,
+            "offset": 189,
+            "length": 6,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 28.075,
+            "end": 28.1875,
+            "offset": 196,
+            "length": 2,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 28.2,
+            "end": 28.625,
+            "offset": 199,
+            "length": 7,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 28.8875,
+            "end": 28.924999999999997,
+            "offset": 208,
+            "length": 1,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 28.9375,
+            "end": 29.2875,
+            "offset": 210,
+            "length": 6,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 29.3,
+            "end": 29.450000000000003,
+            "offset": 217,
+            "length": 3,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 29.4625,
+            "end": 29.7125,
+            "offset": 221,
+            "length": 7,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 29.725,
+            "end": 30.1625,
+            "offset": 229,
+            "length": 6,
+            "segmentId": "ch01_s005"
+          },
+          {
+            "start": 31.0375,
+            "end": 31.2375,
+            "offset": 0,
+            "length": 3,
+            "segmentId": "ch01_s006"
+          },
+          {
+            "start": 31.25,
+            "end": 31.5625,
+            "offset": 4,
+            "length": 6,
+            "segmentId": "ch01_s006"
+          },
+          {
+            "start": 31.575,
+            "end": 31.9875,
+            "offset": 11,
+            "length": 6,
+            "segmentId": "ch01_s006"
+          },
+          {
+            "start": 32,
+            "end": 32.1125,
+            "offset": 18,
+            "length": 1,
+            "segmentId": "ch01_s006"
+          },
+          {
+            "start": 32.9875,
+            "end": 33.1625,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 33.175,
+            "end": 33.3375,
+            "offset": 3,
+            "length": 5,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 33.35,
+            "end": 33.5875,
+            "offset": 9,
+            "length": 5,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 33.6,
+            "end": 33.85,
+            "offset": 15,
+            "length": 2,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 34.1125,
+            "end": 34.2375,
+            "offset": 20,
+            "length": 4,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 34.25,
+            "end": 34.5625,
+            "offset": 25,
+            "length": 6,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 34.575,
+            "end": 34.7125,
+            "offset": 32,
+            "length": 3,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 34.725,
+            "end": 35.1375,
+            "offset": 36,
+            "length": 12,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 35.15,
+            "end": 35.2,
+            "offset": 49,
+            "length": 3,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 35.2125,
+            "end": 35.4625,
+            "offset": 53,
+            "length": 7,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 35.475,
+            "end": 35.8625,
+            "offset": 61,
+            "length": 9,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 35.875,
+            "end": 35.925,
+            "offset": 71,
+            "length": 2,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 35.9375,
+            "end": 36.0375,
+            "offset": 74,
+            "length": 2,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 36.05,
+            "end": 36.1875,
+            "offset": 77,
+            "length": 4,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 36.2,
+            "end": 36.2375,
+            "offset": 82,
+            "length": 2,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 36.25,
+            "end": 36.675,
+            "offset": 85,
+            "length": 7,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 36.6875,
+            "end": 36.85,
+            "offset": 93,
+            "length": 2,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 36.8625,
+            "end": 36.975,
+            "offset": 96,
+            "length": 3,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 36.9875,
+            "end": 37.3,
+            "offset": 100,
+            "length": 6,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 37.3125,
+            "end": 37.425,
+            "offset": 107,
+            "length": 4,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 37.4375,
+            "end": 37.7125,
+            "offset": 112,
+            "length": 7,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 37.725,
+            "end": 38.1875,
+            "offset": 120,
+            "length": 4,
+            "segmentId": "ch01_s007"
+          },
+          {
+            "start": 39.0625,
+            "end": 39.225,
+            "offset": 0,
+            "length": 5,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 39.237500000000004,
+            "end": 39.35,
+            "offset": 6,
+            "length": 5,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 39.362500000000004,
+            "end": 39.825,
+            "offset": 12,
+            "length": 7,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 40.0125,
+            "end": 40.362500000000004,
+            "offset": 22,
+            "length": 10,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 40.375,
+            "end": 40.45,
+            "offset": 33,
+            "length": 2,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 40.462500000000006,
+            "end": 40.800000000000004,
+            "offset": 36,
+            "length": 7,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 40.8125,
+            "end": 41.225,
+            "offset": 44,
+            "length": 9,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 41.237500000000004,
+            "end": 41.625,
+            "offset": 54,
+            "length": 4,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 42.5,
+            "end": 42.6875,
+            "offset": 61,
+            "length": 5,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 42.7,
+            "end": 43.025000000000006,
+            "offset": 67,
+            "length": 6,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 43.0375,
+            "end": 43.1375,
+            "offset": 74,
+            "length": 2,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 43.150000000000006,
+            "end": 43.725,
+            "offset": 77,
+            "length": 12,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 43.737500000000004,
+            "end": 43.875,
+            "offset": 90,
+            "length": 3,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 43.8875,
+            "end": 44.0375,
+            "offset": 94,
+            "length": 2,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 44.050000000000004,
+            "end": 44.5,
+            "offset": 97,
+            "length": 7,
+            "segmentId": "ch01_s008"
+          },
+          {
+            "start": 45.375,
+            "end": 45.575,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s009"
+          },
+          {
+            "start": 45.587500000000006,
+            "end": 46.1875,
+            "offset": 3,
+            "length": 12,
+            "segmentId": "ch01_s009"
+          },
+          {
+            "start": 46.2,
+            "end": 46.2875,
+            "offset": 16,
+            "length": 2,
+            "segmentId": "ch01_s009"
+          },
+          {
+            "start": 46.300000000000004,
+            "end": 46.6625,
+            "offset": 19,
+            "length": 7,
+            "segmentId": "ch01_s009"
+          },
+          {
+            "start": 46.675000000000004,
+            "end": 46.875,
+            "offset": 27,
+            "length": 3,
+            "segmentId": "ch01_s009"
+          },
+          {
+            "start": 46.8875,
+            "end": 47.050000000000004,
+            "offset": 31,
+            "length": 3,
+            "segmentId": "ch01_s009"
+          },
+          {
+            "start": 47.0625,
+            "end": 47.475,
+            "offset": 35,
+            "length": 8,
+            "segmentId": "ch01_s009"
+          },
+          {
+            "start": 47.487500000000004,
+            "end": 47.550000000000004,
+            "offset": 44,
+            "length": 2,
+            "segmentId": "ch01_s009"
+          },
+          {
+            "start": 47.5625,
+            "end": 48.050000000000004,
+            "offset": 47,
+            "length": 8,
+            "segmentId": "ch01_s009"
+          },
+          {
+            "start": 48.925,
+            "end": 49.1625,
+            "offset": 0,
+            "length": 4,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 49.175,
+            "end": 49.3875,
+            "offset": 5,
+            "length": 5,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 49.4,
+            "end": 49.775,
+            "offset": 11,
+            "length": 7,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 49.7875,
+            "end": 50.275,
+            "offset": 19,
+            "length": 11,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 50.2875,
+            "end": 50.4,
+            "offset": 31,
+            "length": 2,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 50.4125,
+            "end": 50.7625,
+            "offset": 34,
+            "length": 7,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 50.775,
+            "end": 51.0375,
+            "offset": 42,
+            "length": 3,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 51.3875,
+            "end": 51.7,
+            "offset": 47,
+            "length": 4,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 51.7125,
+            "end": 51.8125,
+            "offset": 52,
+            "length": 3,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 51.825,
+            "end": 51.9,
+            "offset": 56,
+            "length": 3,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 51.9125,
+            "end": 52.175,
+            "offset": 60,
+            "length": 7,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 52.1875,
+            "end": 52.5875,
+            "offset": 68,
+            "length": 9,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 52.6,
+            "end": 52.8125,
+            "offset": 78,
+            "length": 8,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 52.825,
+            "end": 53.5,
+            "offset": 87,
+            "length": 10,
+            "segmentId": "ch01_s010"
+          },
+          {
+            "start": 54.3625,
+            "end": 54.55,
+            "offset": 0,
+            "length": 5,
+            "segmentId": "ch01_s011"
+          },
+          {
+            "start": 54.5625,
+            "end": 54.7,
+            "offset": 6,
+            "length": 3,
+            "segmentId": "ch01_s011"
+          },
+          {
+            "start": 54.7125,
+            "end": 55.0625,
+            "offset": 10,
+            "length": 8,
+            "segmentId": "ch01_s011"
+          },
+          {
+            "start": 55.075,
+            "end": 55.4,
+            "offset": 19,
+            "length": 6,
+            "segmentId": "ch01_s011"
+          },
+          {
+            "start": 55.4125,
+            "end": 56.175,
+            "offset": 26,
+            "length": 14,
+            "segmentId": "ch01_s011"
+          },
+          {
+            "start": 57.05,
+            "end": 57.2375,
+            "offset": 0,
+            "length": 3,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 57.25,
+            "end": 57.5625,
+            "offset": 4,
+            "length": 6,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 57.575,
+            "end": 57.9125,
+            "offset": 11,
+            "length": 6,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 57.925,
+            "end": 58.0625,
+            "offset": 18,
+            "length": 1,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 58.075,
+            "end": 58.275,
+            "offset": 20,
+            "length": 5,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 58.2875,
+            "end": 58.525,
+            "offset": 26,
+            "length": 5,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 58.5375,
+            "end": 58.7875,
+            "offset": 32,
+            "length": 2,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 58.9875,
+            "end": 59.075,
+            "offset": 37,
+            "length": 3,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 59.0875,
+            "end": 59.3375,
+            "offset": 41,
+            "length": 7,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 59.35,
+            "end": 59.725,
+            "offset": 49,
+            "length": 9,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 59.7375,
+            "end": 59.8625,
+            "offset": 59,
+            "length": 5,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 59.875,
+            "end": 60.2875,
+            "offset": 65,
+            "length": 9,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 60.3,
+            "end": 60.3875,
+            "offset": 75,
+            "length": 2,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 60.4,
+            "end": 60.65,
+            "offset": 78,
+            "length": 7,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 60.6625,
+            "end": 60.775,
+            "offset": 86,
+            "length": 2,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 60.7875,
+            "end": 61.0625,
+            "offset": 89,
+            "length": 4,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 61.075,
+            "end": 61.1625,
+            "offset": 94,
+            "length": 3,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 61.175,
+            "end": 61.4875,
+            "offset": 98,
+            "length": 7,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 61.5,
+            "end": 61.625,
+            "offset": 106,
+            "length": 2,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 61.6375,
+            "end": 61.975,
+            "offset": 109,
+            "length": 8,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 61.9875,
+            "end": 62.1875,
+            "offset": 118,
+            "length": 4,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 62.2,
+            "end": 62.5125,
+            "offset": 123,
+            "length": 7,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 62.525,
+            "end": 62.5875,
+            "offset": 131,
+            "length": 2,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 62.6,
+            "end": 63.0375,
+            "offset": 134,
+            "length": 6,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 63.35,
+            "end": 63.3875,
+            "offset": 142,
+            "length": 2,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 63.4,
+            "end": 63.5125,
+            "offset": 145,
+            "length": 2,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 63.525,
+            "end": 64.0625,
+            "offset": 148,
+            "length": 12,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 64.075,
+            "end": 64.4125,
+            "offset": 161,
+            "length": 6,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 64.425,
+            "end": 64.4625,
+            "offset": 168,
+            "length": 1,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 64.475,
+            "end": 64.5625,
+            "offset": 170,
+            "length": 2,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 64.575,
+            "end": 65.225,
+            "offset": 173,
+            "length": 10,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 65.5,
+            "end": 65.5875,
+            "offset": 185,
+            "length": 1,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 65.6,
+            "end": 66.1375,
+            "offset": 187,
+            "length": 10,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 66.475,
+            "end": 66.525,
+            "offset": 199,
+            "length": 2,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 66.5375,
+            "end": 66.9375,
+            "offset": 202,
+            "length": 6,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 66.95,
+            "end": 67.025,
+            "offset": 209,
+            "length": 2,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 67.0375,
+            "end": 67.075,
+            "offset": 212,
+            "length": 1,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 67.0875,
+            "end": 67.1875,
+            "offset": 214,
+            "length": 2,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 67.2,
+            "end": 67.8125,
+            "offset": 217,
+            "length": 9,
+            "segmentId": "ch01_s012"
+          },
+          {
+            "start": 68.6875,
+            "end": 68.91250000000001,
+            "offset": 0,
+            "length": 5,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 68.925,
+            "end": 69.25,
+            "offset": 6,
+            "length": 5,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 69.2625,
+            "end": 69.41250000000001,
+            "offset": 12,
+            "length": 3,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 69.425,
+            "end": 69.5625,
+            "offset": 16,
+            "length": 4,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 69.575,
+            "end": 70.1375,
+            "offset": 21,
+            "length": 9,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 70.41250000000001,
+            "end": 70.47500000000001,
+            "offset": 32,
+            "length": 1,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 70.4875,
+            "end": 70.675,
+            "offset": 34,
+            "length": 5,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 70.6875,
+            "end": 70.8375,
+            "offset": 40,
+            "length": 2,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 70.85000000000001,
+            "end": 71.025,
+            "offset": 43,
+            "length": 3,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 71.03750000000001,
+            "end": 71.275,
+            "offset": 47,
+            "length": 3,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 71.5875,
+            "end": 71.66250000000001,
+            "offset": 52,
+            "length": 3,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 71.675,
+            "end": 72.10000000000001,
+            "offset": 56,
+            "length": 10,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 72.1125,
+            "end": 72.425,
+            "offset": 67,
+            "length": 8,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 72.4375,
+            "end": 72.55,
+            "offset": 76,
+            "length": 2,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 72.5625,
+            "end": 73,
+            "offset": 79,
+            "length": 7,
+            "segmentId": "ch01_s013"
+          },
+          {
+            "start": 73.875,
+            "end": 74.2375,
+            "offset": 0,
+            "length": 7,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 74.25,
+            "end": 74.45,
+            "offset": 8,
+            "length": 3,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 74.4625,
+            "end": 75.025,
+            "offset": 12,
+            "length": 9,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 75.03750000000001,
+            "end": 75.2125,
+            "offset": 22,
+            "length": 3,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 75.22500000000001,
+            "end": 75.7,
+            "offset": 26,
+            "length": 10,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 75.7125,
+            "end": 75.8125,
+            "offset": 37,
+            "length": 2,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 75.825,
+            "end": 75.9375,
+            "offset": 40,
+            "length": 3,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 75.95,
+            "end": 76.2625,
+            "offset": 44,
+            "length": 6,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 76.275,
+            "end": 76.6875,
+            "offset": 51,
+            "length": 6,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 76.7,
+            "end": 76.775,
+            "offset": 58,
+            "length": 1,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 76.78750000000001,
+            "end": 76.8375,
+            "offset": 60,
+            "length": 2,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 76.85000000000001,
+            "end": 76.9625,
+            "offset": 63,
+            "length": 2,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 76.97500000000001,
+            "end": 77.10000000000001,
+            "offset": 66,
+            "length": 3,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 77.1125,
+            "end": 77.41250000000001,
+            "offset": 70,
+            "length": 6,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 77.425,
+            "end": 77.7625,
+            "offset": 77,
+            "length": 6,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 77.775,
+            "end": 78.05,
+            "offset": 84,
+            "length": 1,
+            "segmentId": "ch01_s014"
+          },
+          {
+            "start": 78.9125,
+            "end": 79.1125,
+            "offset": 0,
+            "length": 3,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 79.125,
+            "end": 79.3875,
+            "offset": 4,
+            "length": 7,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 79.39999999999999,
+            "end": 79.75,
+            "offset": 12,
+            "length": 9,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 79.7625,
+            "end": 79.85,
+            "offset": 22,
+            "length": 2,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 79.8625,
+            "end": 80.225,
+            "offset": 25,
+            "length": 11,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 80.2375,
+            "end": 80.5125,
+            "offset": 37,
+            "length": 6,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 80.52499999999999,
+            "end": 80.71249999999999,
+            "offset": 44,
+            "length": 4,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 80.725,
+            "end": 80.9375,
+            "offset": 49,
+            "length": 6,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 80.95,
+            "end": 81.225,
+            "offset": 56,
+            "length": 6,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 81.5625,
+            "end": 81.6125,
+            "offset": 64,
+            "length": 2,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 81.625,
+            "end": 81.75,
+            "offset": 67,
+            "length": 5,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 81.7625,
+            "end": 82.2875,
+            "offset": 73,
+            "length": 8,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 82.6125,
+            "end": 82.7625,
+            "offset": 83,
+            "length": 4,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 82.77499999999999,
+            "end": 82.83749999999999,
+            "offset": 88,
+            "length": 3,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 82.85,
+            "end": 83.3125,
+            "offset": 92,
+            "length": 7,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 83.64999999999999,
+            "end": 83.77499999999999,
+            "offset": 101,
+            "length": 2,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 83.7875,
+            "end": 84.1625,
+            "offset": 104,
+            "length": 8,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 84.175,
+            "end": 84.225,
+            "offset": 113,
+            "length": 2,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 84.2375,
+            "end": 84.58749999999999,
+            "offset": 116,
+            "length": 8,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 84.6,
+            "end": 84.725,
+            "offset": 125,
+            "length": 4,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 84.7375,
+            "end": 84.96249999999999,
+            "offset": 130,
+            "length": 6,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 84.975,
+            "end": 85.075,
+            "offset": 137,
+            "length": 3,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 85.08749999999999,
+            "end": 85.85,
+            "offset": 141,
+            "length": 12,
+            "segmentId": "ch01_s015"
+          },
+          {
+            "start": 86.725,
+            "end": 86.96249999999999,
+            "offset": 0,
+            "length": 4,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 86.975,
+            "end": 87.1625,
+            "offset": 5,
+            "length": 4,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 87.175,
+            "end": 87.3,
+            "offset": 10,
+            "length": 2,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 87.3125,
+            "end": 87.71249999999999,
+            "offset": 13,
+            "length": 7,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 87.725,
+            "end": 87.7625,
+            "offset": 21,
+            "length": 2,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 87.77499999999999,
+            "end": 88.0625,
+            "offset": 24,
+            "length": 5,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 88.075,
+            "end": 88.39999999999999,
+            "offset": 30,
+            "length": 6,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 88.4125,
+            "end": 88.475,
+            "offset": 37,
+            "length": 2,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 88.4875,
+            "end": 88.6375,
+            "offset": 40,
+            "length": 4,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 88.64999999999999,
+            "end": 88.9375,
+            "offset": 45,
+            "length": 6,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 88.95,
+            "end": 89.0125,
+            "offset": 52,
+            "length": 1,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 89.02499999999999,
+            "end": 89.39999999999999,
+            "offset": 54,
+            "length": 7,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 89.4125,
+            "end": 89.5125,
+            "offset": 62,
+            "length": 3,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 89.52499999999999,
+            "end": 89.9125,
+            "offset": 66,
+            "length": 6,
+            "segmentId": "ch01_s016"
+          },
+          {
+            "start": 90.7875,
+            "end": 91.02499999999999,
+            "offset": 0,
+            "length": 4,
+            "segmentId": "ch01_s017"
+          },
+          {
+            "start": 91.0375,
+            "end": 91.27499999999999,
+            "offset": 5,
+            "length": 4,
+            "segmentId": "ch01_s017"
+          },
+          {
+            "start": 91.2875,
+            "end": 91.3625,
+            "offset": 10,
+            "length": 2,
+            "segmentId": "ch01_s017"
+          },
+          {
+            "start": 91.375,
+            "end": 91.5375,
+            "offset": 13,
+            "length": 3,
+            "segmentId": "ch01_s017"
+          },
+          {
+            "start": 91.55,
+            "end": 91.8625,
+            "offset": 17,
+            "length": 7,
+            "segmentId": "ch01_s017"
+          },
+          {
+            "start": 91.875,
+            "end": 91.975,
+            "offset": 25,
+            "length": 4,
+            "segmentId": "ch01_s017"
+          },
+          {
+            "start": 91.9875,
+            "end": 92.075,
+            "offset": 30,
+            "length": 2,
+            "segmentId": "ch01_s017"
+          },
+          {
+            "start": 92.08749999999999,
+            "end": 92.475,
+            "offset": 33,
+            "length": 5,
+            "segmentId": "ch01_s017"
+          },
+          {
+            "start": 93.35,
+            "end": 93.475,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s018"
+          },
+          {
+            "start": 93.4875,
+            "end": 93.575,
+            "offset": 3,
+            "length": 2,
+            "segmentId": "ch01_s018"
+          },
+          {
+            "start": 93.58749999999999,
+            "end": 94.25,
+            "offset": 6,
+            "length": 10,
+            "segmentId": "ch01_s018"
+          },
+          {
+            "start": 94.55,
+            "end": 94.675,
+            "offset": 18,
+            "length": 5,
+            "segmentId": "ch01_s018"
+          },
+          {
+            "start": 94.6875,
+            "end": 95.1625,
+            "offset": 24,
+            "length": 5,
+            "segmentId": "ch01_s018"
+          },
+          {
+            "start": 95.46249999999999,
+            "end": 95.6,
+            "offset": 31,
+            "length": 3,
+            "segmentId": "ch01_s018"
+          },
+          {
+            "start": 95.6125,
+            "end": 95.9125,
+            "offset": 35,
+            "length": 8,
+            "segmentId": "ch01_s018"
+          },
+          {
+            "start": 95.925,
+            "end": 96.3875,
+            "offset": 44,
+            "length": 5,
+            "segmentId": "ch01_s018"
+          },
+          {
+            "start": 97.25,
+            "end": 97.47500000000001,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s019"
+          },
+          {
+            "start": 97.4875,
+            "end": 97.7125,
+            "offset": 3,
+            "length": 6,
+            "segmentId": "ch01_s019"
+          },
+          {
+            "start": 97.72500000000001,
+            "end": 98.3375,
+            "offset": 10,
+            "length": 11,
+            "segmentId": "ch01_s019"
+          },
+          {
+            "start": 98.5125,
+            "end": 98.6375,
+            "offset": 23,
+            "length": 2,
+            "segmentId": "ch01_s019"
+          },
+          {
+            "start": 98.65,
+            "end": 98.9375,
+            "offset": 26,
+            "length": 7,
+            "segmentId": "ch01_s019"
+          },
+          {
+            "start": 98.95,
+            "end": 99.1125,
+            "offset": 34,
+            "length": 4,
+            "segmentId": "ch01_s019"
+          },
+          {
+            "start": 99.125,
+            "end": 99.425,
+            "offset": 39,
+            "length": 5,
+            "segmentId": "ch01_s019"
+          },
+          {
+            "start": 99.72500000000001,
+            "end": 99.8875,
+            "offset": 46,
+            "length": 2,
+            "segmentId": "ch01_s019"
+          },
+          {
+            "start": 99.9,
+            "end": 100.125,
+            "offset": 49,
+            "length": 5,
+            "segmentId": "ch01_s019"
+          },
+          {
+            "start": 100.1375,
+            "end": 100.22500000000001,
+            "offset": 55,
+            "length": 2,
+            "segmentId": "ch01_s019"
+          },
+          {
+            "start": 100.2375,
+            "end": 100.8375,
+            "offset": 58,
+            "length": 9,
+            "segmentId": "ch01_s019"
+          },
+          {
+            "start": 101.7,
+            "end": 101.9375,
+            "offset": 0,
+            "length": 5,
+            "segmentId": "ch01_s020"
+          },
+          {
+            "start": 101.95,
+            "end": 102.1375,
+            "offset": 6,
+            "length": 4,
+            "segmentId": "ch01_s020"
+          },
+          {
+            "start": 102.15,
+            "end": 102.55000000000001,
+            "offset": 11,
+            "length": 5,
+            "segmentId": "ch01_s020"
+          },
+          {
+            "start": 102.9,
+            "end": 103.05000000000001,
+            "offset": 18,
+            "length": 2,
+            "segmentId": "ch01_s020"
+          },
+          {
+            "start": 103.0625,
+            "end": 103.15,
+            "offset": 21,
+            "length": 4,
+            "segmentId": "ch01_s020"
+          },
+          {
+            "start": 103.16250000000001,
+            "end": 103.25,
+            "offset": 26,
+            "length": 3,
+            "segmentId": "ch01_s020"
+          },
+          {
+            "start": 103.2625,
+            "end": 103.6375,
+            "offset": 30,
+            "length": 5,
+            "segmentId": "ch01_s020"
+          },
+          {
+            "start": 103.65,
+            "end": 103.9,
+            "offset": 36,
+            "length": 7,
+            "segmentId": "ch01_s020"
+          },
+          {
+            "start": 103.91250000000001,
+            "end": 103.98750000000001,
+            "offset": 44,
+            "length": 2,
+            "segmentId": "ch01_s020"
+          },
+          {
+            "start": 104,
+            "end": 104.30000000000001,
+            "offset": 47,
+            "length": 4,
+            "segmentId": "ch01_s020"
+          },
+          {
+            "start": 105.175,
+            "end": 105.4375,
+            "offset": 0,
+            "length": 4,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 105.45,
+            "end": 105.725,
+            "offset": 5,
+            "length": 5,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 105.7375,
+            "end": 105.8625,
+            "offset": 11,
+            "length": 2,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 106.1125,
+            "end": 106.175,
+            "offset": 15,
+            "length": 2,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 106.1875,
+            "end": 106.3875,
+            "offset": 18,
+            "length": 5,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 106.4,
+            "end": 106.475,
+            "offset": 24,
+            "length": 2,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 106.4875,
+            "end": 106.6125,
+            "offset": 27,
+            "length": 2,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 106.625,
+            "end": 106.85,
+            "offset": 30,
+            "length": 3,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 107.1875,
+            "end": 107.3125,
+            "offset": 35,
+            "length": 3,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 107.325,
+            "end": 107.4625,
+            "offset": 39,
+            "length": 3,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 107.475,
+            "end": 107.5625,
+            "offset": 43,
+            "length": 2,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 107.575,
+            "end": 108.0125,
+            "offset": 46,
+            "length": 8,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 108.025,
+            "end": 108.225,
+            "offset": 55,
+            "length": 4,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 108.2375,
+            "end": 108.3625,
+            "offset": 60,
+            "length": 3,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 108.375,
+            "end": 108.5125,
+            "offset": 64,
+            "length": 3,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 108.525,
+            "end": 108.6625,
+            "offset": 68,
+            "length": 2,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 108.675,
+            "end": 108.8125,
+            "offset": 71,
+            "length": 4,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 108.825,
+            "end": 109.3,
+            "offset": 76,
+            "length": 7,
+            "segmentId": "ch01_s021"
+          },
+          {
+            "start": 110.1625,
+            "end": 110.39999999999999,
+            "offset": 0,
+            "length": 4,
+            "segmentId": "ch01_s022"
+          },
+          {
+            "start": 110.4125,
+            "end": 110.7,
+            "offset": 5,
+            "length": 8,
+            "segmentId": "ch01_s022"
+          },
+          {
+            "start": 110.71249999999999,
+            "end": 111.02499999999999,
+            "offset": 14,
+            "length": 4,
+            "segmentId": "ch01_s022"
+          },
+          {
+            "start": 111.0375,
+            "end": 111.1875,
+            "offset": 19,
+            "length": 4,
+            "segmentId": "ch01_s022"
+          },
+          {
+            "start": 111.2,
+            "end": 111.2875,
+            "offset": 24,
+            "length": 3,
+            "segmentId": "ch01_s022"
+          },
+          {
+            "start": 111.3,
+            "end": 111.5625,
+            "offset": 28,
+            "length": 7,
+            "segmentId": "ch01_s022"
+          },
+          {
+            "start": 111.575,
+            "end": 112.1625,
+            "offset": 36,
+            "length": 9,
+            "segmentId": "ch01_s022"
+          },
+          {
+            "start": 113.02499999999999,
+            "end": 113.2375,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s023"
+          },
+          {
+            "start": 113.25,
+            "end": 113.33749999999999,
+            "offset": 3,
+            "length": 3,
+            "segmentId": "ch01_s023"
+          },
+          {
+            "start": 113.35,
+            "end": 113.475,
+            "offset": 7,
+            "length": 2,
+            "segmentId": "ch01_s023"
+          },
+          {
+            "start": 113.4875,
+            "end": 113.6,
+            "offset": 10,
+            "length": 4,
+            "segmentId": "ch01_s023"
+          },
+          {
+            "start": 113.6125,
+            "end": 113.725,
+            "offset": 15,
+            "length": 2,
+            "segmentId": "ch01_s023"
+          },
+          {
+            "start": 113.7375,
+            "end": 113.9375,
+            "offset": 18,
+            "length": 4,
+            "segmentId": "ch01_s023"
+          },
+          {
+            "start": 113.94999999999999,
+            "end": 114.2875,
+            "offset": 23,
+            "length": 4,
+            "segmentId": "ch01_s023"
+          },
+          {
+            "start": 115.1625,
+            "end": 115.3875,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s024"
+          },
+          {
+            "start": 115.39999999999999,
+            "end": 115.5,
+            "offset": 3,
+            "length": 3,
+            "segmentId": "ch01_s024"
+          },
+          {
+            "start": 115.5125,
+            "end": 115.64999999999999,
+            "offset": 7,
+            "length": 3,
+            "segmentId": "ch01_s024"
+          },
+          {
+            "start": 115.6625,
+            "end": 115.875,
+            "offset": 11,
+            "length": 4,
+            "segmentId": "ch01_s024"
+          },
+          {
+            "start": 115.8875,
+            "end": 116.325,
+            "offset": 16,
+            "length": 8,
+            "segmentId": "ch01_s024"
+          },
+          {
+            "start": 116.33749999999999,
+            "end": 116.45,
+            "offset": 25,
+            "length": 3,
+            "segmentId": "ch01_s024"
+          },
+          {
+            "start": 116.46249999999999,
+            "end": 116.975,
+            "offset": 29,
+            "length": 7,
+            "segmentId": "ch01_s024"
+          },
+          {
+            "start": 117.85,
+            "end": 118,
+            "offset": 0,
+            "length": 5,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 118.0125,
+            "end": 118.1875,
+            "offset": 6,
+            "length": 4,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 118.2,
+            "end": 118.675,
+            "offset": 11,
+            "length": 11,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 118.6875,
+            "end": 118.8,
+            "offset": 23,
+            "length": 3,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 118.8125,
+            "end": 118.96249999999999,
+            "offset": 27,
+            "length": 3,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 118.975,
+            "end": 119.08749999999999,
+            "offset": 31,
+            "length": 2,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 119.1,
+            "end": 119.52499999999999,
+            "offset": 34,
+            "length": 10,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 119.5375,
+            "end": 119.625,
+            "offset": 45,
+            "length": 2,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 119.6375,
+            "end": 119.7625,
+            "offset": 48,
+            "length": 3,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 119.77499999999999,
+            "end": 120.1875,
+            "offset": 52,
+            "length": 6,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 120.55,
+            "end": 120.675,
+            "offset": 60,
+            "length": 2,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 120.6875,
+            "end": 120.9375,
+            "offset": 63,
+            "length": 7,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 120.95,
+            "end": 121.5375,
+            "offset": 71,
+            "length": 12,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 121.55,
+            "end": 121.725,
+            "offset": 84,
+            "length": 3,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 121.7375,
+            "end": 121.825,
+            "offset": 88,
+            "length": 4,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 121.83749999999999,
+            "end": 121.9375,
+            "offset": 93,
+            "length": 2,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 121.95,
+            "end": 122.0625,
+            "offset": 96,
+            "length": 3,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 122.075,
+            "end": 122.3875,
+            "offset": 100,
+            "length": 6,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 122.39999999999999,
+            "end": 122.7625,
+            "offset": 107,
+            "length": 6,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 122.77499999999999,
+            "end": 122.85,
+            "offset": 114,
+            "length": 1,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 122.8625,
+            "end": 123.0125,
+            "offset": 116,
+            "length": 3,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 123.02499999999999,
+            "end": 123.14999999999999,
+            "offset": 120,
+            "length": 4,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 123.1625,
+            "end": 123.5,
+            "offset": 125,
+            "length": 8,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 123.5125,
+            "end": 124.1375,
+            "offset": 134,
+            "length": 8,
+            "segmentId": "ch01_s025"
+          },
+          {
+            "start": 125,
+            "end": 125.2,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s026"
+          },
+          {
+            "start": 125.2125,
+            "end": 125.4375,
+            "offset": 3,
+            "length": 7,
+            "segmentId": "ch01_s026"
+          },
+          {
+            "start": 125.45,
+            "end": 125.8125,
+            "offset": 11,
+            "length": 6,
+            "segmentId": "ch01_s026"
+          },
+          {
+            "start": 125.825,
+            "end": 126.0125,
+            "offset": 18,
+            "length": 2,
+            "segmentId": "ch01_s026"
+          },
+          {
+            "start": 126.025,
+            "end": 126.10000000000001,
+            "offset": 21,
+            "length": 4,
+            "segmentId": "ch01_s026"
+          },
+          {
+            "start": 126.1125,
+            "end": 126.3125,
+            "offset": 26,
+            "length": 5,
+            "segmentId": "ch01_s026"
+          },
+          {
+            "start": 126.325,
+            "end": 126.6875,
+            "offset": 32,
+            "length": 8,
+            "segmentId": "ch01_s026"
+          },
+          {
+            "start": 126.7,
+            "end": 127.625,
+            "offset": 41,
+            "length": 13,
+            "segmentId": "ch01_s026"
+          },
+          {
+            "start": 128.5,
+            "end": 128.7,
+            "offset": 0,
+            "length": 4,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 128.71249999999998,
+            "end": 129.0625,
+            "offset": 5,
+            "length": 8,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 129.075,
+            "end": 129.1375,
+            "offset": 14,
+            "length": 4,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 129.14999999999998,
+            "end": 129.25,
+            "offset": 19,
+            "length": 2,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 129.2625,
+            "end": 129.7625,
+            "offset": 22,
+            "length": 9,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 130.0125,
+            "end": 130.1375,
+            "offset": 34,
+            "length": 7,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 130.14999999999998,
+            "end": 130.29999999999998,
+            "offset": 42,
+            "length": 2,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 130.3125,
+            "end": 130.7875,
+            "offset": 45,
+            "length": 7,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 131.6625,
+            "end": 132,
+            "offset": 54,
+            "length": 7,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 132.0125,
+            "end": 132.11249999999998,
+            "offset": 62,
+            "length": 2,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 132.125,
+            "end": 132.2,
+            "offset": 65,
+            "length": 2,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 132.21249999999998,
+            "end": 132.33749999999998,
+            "offset": 68,
+            "length": 3,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 132.35,
+            "end": 132.61249999999998,
+            "offset": 72,
+            "length": 7,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 132.625,
+            "end": 132.73749999999998,
+            "offset": 80,
+            "length": 2,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 132.75,
+            "end": 132.8875,
+            "offset": 83,
+            "length": 2,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 132.89999999999998,
+            "end": 133.25,
+            "offset": 86,
+            "length": 8,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 133.2625,
+            "end": 133.5375,
+            "offset": 95,
+            "length": 4,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 133.83749999999998,
+            "end": 133.95,
+            "offset": 101,
+            "length": 2,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 133.96249999999998,
+            "end": 134.08749999999998,
+            "offset": 104,
+            "length": 2,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 134.1,
+            "end": 134.33749999999998,
+            "offset": 107,
+            "length": 6,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 134.35,
+            "end": 134.79999999999998,
+            "offset": 114,
+            "length": 7,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 135.08749999999998,
+            "end": 135.225,
+            "offset": 123,
+            "length": 2,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 135.23749999999998,
+            "end": 135.79999999999998,
+            "offset": 126,
+            "length": 9,
+            "segmentId": "ch01_s027"
+          },
+          {
+            "start": 136.66250000000002,
+            "end": 136.88750000000002,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s028"
+          },
+          {
+            "start": 136.9,
+            "end": 136.97500000000002,
+            "offset": 3,
+            "length": 2,
+            "segmentId": "ch01_s028"
+          },
+          {
+            "start": 136.9875,
+            "end": 137.26250000000002,
+            "offset": 6,
+            "length": 7,
+            "segmentId": "ch01_s028"
+          },
+          {
+            "start": 137.275,
+            "end": 137.3375,
+            "offset": 14,
+            "length": 1,
+            "segmentId": "ch01_s028"
+          },
+          {
+            "start": 137.35000000000002,
+            "end": 137.4875,
+            "offset": 16,
+            "length": 2,
+            "segmentId": "ch01_s028"
+          },
+          {
+            "start": 137.5,
+            "end": 138,
+            "offset": 19,
+            "length": 6,
+            "segmentId": "ch01_s028"
+          },
+          {
+            "start": 138.8625,
+            "end": 139.075,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 139.0875,
+            "end": 139.2,
+            "offset": 3,
+            "length": 3,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 139.2125,
+            "end": 139.4875,
+            "offset": 7,
+            "length": 7,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 139.5,
+            "end": 139.6125,
+            "offset": 15,
+            "length": 2,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 139.625,
+            "end": 140,
+            "offset": 18,
+            "length": 6,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 140.25,
+            "end": 140.375,
+            "offset": 26,
+            "length": 2,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 140.3875,
+            "end": 140.8,
+            "offset": 29,
+            "length": 4,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 141.025,
+            "end": 141.15,
+            "offset": 35,
+            "length": 2,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 141.1625,
+            "end": 141.6625,
+            "offset": 38,
+            "length": 9,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 141.675,
+            "end": 141.7125,
+            "offset": 48,
+            "length": 2,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 141.725,
+            "end": 141.8375,
+            "offset": 51,
+            "length": 2,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 141.85,
+            "end": 142.4625,
+            "offset": 54,
+            "length": 8,
+            "segmentId": "ch01_s029"
+          },
+          {
+            "start": 143.3375,
+            "end": 143.475,
+            "offset": 0,
+            "length": 2,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 143.48749999999998,
+            "end": 143.5875,
+            "offset": 3,
+            "length": 2,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 143.6,
+            "end": 143.86249999999998,
+            "offset": 6,
+            "length": 6,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 143.875,
+            "end": 144.2625,
+            "offset": 13,
+            "length": 8,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 144.275,
+            "end": 144.475,
+            "offset": 22,
+            "length": 5,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 144.48749999999998,
+            "end": 144.6875,
+            "offset": 28,
+            "length": 4,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 144.7,
+            "end": 145.075,
+            "offset": 33,
+            "length": 8,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 145.0875,
+            "end": 145.1875,
+            "offset": 42,
+            "length": 2,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 145.2,
+            "end": 145.5875,
+            "offset": 45,
+            "length": 9,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 145.6,
+            "end": 145.625,
+            "offset": 55,
+            "length": 2,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 145.6375,
+            "end": 145.825,
+            "offset": 58,
+            "length": 5,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 145.8375,
+            "end": 146.0875,
+            "offset": 64,
+            "length": 5,
+            "segmentId": "ch01_s030"
+          },
+          {
+            "start": 146.1,
+            "end": 146.75,
+            "offset": 70,
+            "length": 11,
+            "segmentId": "ch01_s030"
+          }
+        ],
+        "fingerprint": "6c591c0e559c06af4013e2bffe522752213020b5cf687a7cbc38cedde0d88328"
+      }
+    }
+  ],
+  "glossary": {
+    "fr:lorsque": "quando",
+    "fr:j’avais": "eu tinha",
+    "fr:six": "seis",
+    "fr:ans": "anos",
+    "fr:j’ai": "eu tenho / eu fiz, conforme a expressão",
+    "fr:vu": "visto",
+    "fr:une": "uma",
+    "fr:fois": "vez",
+    "fr:magnifique": "magnífico / magnífica",
+    "fr:image": "imagem",
+    "fr:dans": "em / dentro de",
+    "fr:un": "um",
+    "fr:livre": "livro",
+    "fr:sur": "sobre",
+    "fr:forêt": "floresta",
+    "fr:vierge": "virgem",
+    "fr:qui": "que / quem",
+    "fr:s’appelait": "chamava-se",
+    "fr:histoires": "histórias",
+    "fr:vécues": "vividas",
+    "fr:ça": "isso",
+    "fr:représentait": "representava",
+    "fr:serpent": "serpente",
+    "fr:boa": "jiboia",
+    "fr:avalait": "engolia",
+    "fr:fauve": "fera",
+    "fr:voilà": "aqui está",
+    "fr:la": "a / a ela",
+    "fr:copie": "cópia",
+    "fr:du": "do",
+    "fr:dessin": "desenho",
+    "fr:on": "a gente / alguém",
+    "fr:disait": "dizia",
+    "fr:les": "os / as",
+    "fr:avalent": "engolem",
+    "fr:leur": "seu / sua / lhes",
+    "fr:proie": "presa",
+    "fr:tout": "todo",
+    "fr:entière": "inteira",
+    "fr:sans": "sem",
+    "fr:mâcher": "mastigar",
+    "fr:ensuite": "depois",
+    "fr:ils": "eles",
+    "fr:ne": "parte da negação",
+    "fr:peuvent": "podem / conseguem",
+    "fr:plus": "mais",
+    "fr:bouger": "mover-se",
+    "fr:et": "e",
+    "fr:dorment": "dormem",
+    "fr:pendant": "durante",
+    "fr:mois": "meses",
+    "fr:digestion": "digestão",
+    "fr:alors": "então",
+    "fr:beaucoup": "muito",
+    "fr:réfléchi": "refletido",
+    "fr:aventures": "aventuras",
+    "fr:jungle": "selva",
+    "fr:mon": "meu",
+    "fr:tour": "vez / turno",
+    "fr:réussi": "conseguido",
+    "fr:avec": "com",
+    "fr:crayon": "lápis",
+    "fr:couleur": "cor",
+    "fr:tracer": "traçar",
+    "fr:premier": "primeiro",
+    "fr:numéro": "número",
+    "fr:il": "ele",
+    "fr:était": "era / estava",
+    "fr:comme": "como",
+    "fr:montré": "mostrado",
+    "fr:chef-d’œuvre": "obra-prima",
+    "fr:aux": "aos / às",
+    "fr:grandes": "grandes",
+    "fr:personnes": "pessoas",
+    "fr:je": "eu",
+    "fr:ai": "tenho / auxiliar de passado",
+    "fr:demandé": "perguntado",
+    "fr:si": "se",
+    "fr:faisait": "fazia",
+    "fr:peur": "medo",
+    "fr:elles": "elas",
+    "fr:m’ont": "a mim / me, com auxiliar de passado",
+    "fr:répondu": "respondido",
+    "fr:pourquoi": "por que",
+    "fr:chapeau": "chapéu",
+    "fr:ferait-il": "faria ele",
+    "fr:pas": "não, com ne",
+    "fr:digérait": "digeria",
+    "fr:éléphant": "elefante",
+    "fr:dessiné": "desenhado",
+    "fr:l’intérieur": "o interior",
+    "fr:afin": "para / a fim de",
+    "fr:que": "que",
+    "fr:puissent": "possam / pudessem",
+    "fr:comprendre": "compreender",
+    "fr:toujours": "sempre",
+    "fr:besoin": "necessidade",
+    "fr:d’explications": "de explicações",
+    "fr:conseillé": "aconselhado",
+    "fr:laisser": "deixar",
+    "fr:côté": "lado",
+    "fr:ouverts": "abertos",
+    "fr:fermés": "fechados",
+    "fr:m’intéresser": "interessar-me",
+    "fr:plutôt": "de preferência",
+    "fr:géographie": "geografia",
+    "fr:l’histoire": "a história",
+    "fr:calcul": "cálculo",
+    "fr:grammaire": "gramática",
+    "fr:ainsi": "assim",
+    "fr:abandonné": "abandonado",
+    "fr:l’âge": "a idade",
+    "fr:carrière": "carreira",
+    "fr:peintre": "pintor",
+    "fr:découragé": "desanimado",
+    "fr:l’insuccès": "o fracasso",
+    "fr:comprennent": "compreendem",
+    "fr:jamais": "nunca",
+    "fr:rien": "nada",
+    "fr:toutes": "todas",
+    "fr:seules": "sozinhas",
+    "fr:fatigant": "cansativo",
+    "fr:enfants": "crianças",
+    "fr:donc": "portanto / então",
+    "fr:dû": "precisado / devido",
+    "fr:choisir": "escolher",
+    "fr:autre": "outro / outra",
+    "fr:métier": "profissão",
+    "fr:appris": "aprendido",
+    "fr:piloter": "pilotar",
+    "fr:avions": "aviões",
+    "fr:volé": "voado",
+    "fr:peu": "pouco",
+    "fr:partout": "por toda parte",
+    "fr:monde": "mundo",
+    "fr:exact": "exato",
+    "fr:servi": "servido / sido útil",
+    "fr:savais": "sabia",
+    "fr:reconnaître": "reconhecer",
+    "fr:chine": "China",
+    "fr:l’arizona": "o Arizona",
+    "fr:utile": "útil",
+    "fr:égaré": "perdido",
+    "fr:nuit": "noite",
+    "fr:vie": "vida",
+    "fr:tas": "muitos / montes",
+    "fr:contacts": "contatos",
+    "fr:gens": "gente / pessoas",
+    "fr:sérieux": "sérios",
+    "fr:vécu": "vivido",
+    "fr:vues": "vistas",
+    "fr:près": "perto",
+    "fr:amélioré": "melhorado",
+    "fr:opinion": "opinião",
+    "fr:quand": "quando",
+    "fr:rencontrais": "encontrava",
+    "fr:paraissait": "parecia",
+    "fr:lucide": "lúcido / lúcida",
+    "fr:l’expérience": "a experiência",
+    "fr:conservé": "conservado",
+    "fr:voulais": "queria",
+    "fr:savoir": "saber",
+    "fr:vraiment": "realmente",
+    "fr:compréhensive": "compreensiva",
+    "fr:mais": "mas",
+    "fr:elle": "ela",
+    "fr:répondait": "respondia",
+    "fr:parlais": "falava",
+    "fr:forêts": "florestas",
+    "fr:vierges": "virgens",
+    "fr:d’étoiles": "de estrelas",
+    "fr:mettais": "colocava",
+    "fr:portée": "alcance / nível de compreensão",
+    "fr:bridge": "bridge, jogo de cartas",
+    "fr:golf": "golfe",
+    "fr:politique": "política",
+    "fr:cravates": "gravatas",
+    "fr:personne": "pessoa",
+    "fr:bien": "bem / muito",
+    "fr:contente": "contente",
+    "fr:connaître": "conhecer",
+    "fr:homme": "homem",
+    "fr:aussi": "tão / também",
+    "fr:raisonnable": "sensato",
+    "fr:le": "O",
+    "fr:serpents": "cobras",
+    "fr:boas": "Boas",
+    "fr:de": "de",
+    "fr:à": "à",
+    "fr:1": "1",
+    "fr:ont": "ter",
+    "fr:2": "2",
+    "fr:dessins": "Desenhos",
+    "fr:ou": "ou",
+    "fr:au": "para",
+    "fr:c’est": "É",
+    "fr:été": "Verão",
+    "fr:par": "por",
+    "fr:pour": "para",
+    "fr:donner": "Doe",
+    "fr:des": "de",
+    "fr:explications": "Explicações",
+    "fr:m’a": "tem",
+    "fr:coup": "Blow",
+    "fr:d’œil": "de um olho",
+    "fr:très": "muito",
+    "fr:l’on": "um",
+    "fr:est": "é",
+    "fr:eu": "UE",
+    "fr:cours": "Cursos",
+    "fr:ma": "mãe",
+    "fr:chez": "em",
+    "fr:n’a": "não tem",
+    "fr:trop": "demais",
+    "fr:j’en": "Eu sou",
+    "fr:me": "Eu",
+    "fr:faisais": "Eu estava fazendo",
+    "fr:lui": "Ele",
+    "fr:ni": "nem",
+    "fr:sa": "seu",
+    "fr:grande": "grande",
+    "pt:quando": "lorsque / quand",
+    "pt:eu": "je",
+    "pt:tinha": "avais",
+    "pt:seis": "six",
+    "pt:anos": "ans",
+    "pt:vi": "ai vu",
+    "pt:certa": "certaine",
+    "pt:vez": "fois",
+    "pt:uma": "une",
+    "pt:imagem": "image",
+    "pt:magnífica": "magnifique",
+    "pt:num": "dans un",
+    "pt:livro": "livre",
+    "pt:sobre": "sur",
+    "pt:a": "la / à",
+    "pt:floresta": "forêt",
+    "pt:virgem": "vierge",
+    "pt:chamado": "appelé",
+    "pt:histórias": "histoires",
+    "pt:vividas": "vécues",
+    "pt:ela": "elle",
+    "pt:mostrava": "montrait",
+    "pt:jiboia": "serpent boa",
+    "pt:engolindo": "avalant",
+    "pt:fera": "fauve",
+    "pt:aqui": "ici",
+    "pt:está": "est",
+    "pt:cópia": "copie",
+    "pt:do": "du",
+    "pt:desenho": "dessin",
+    "pt:o": "le",
+    "pt:dizia": "disait",
+    "pt:as": "les",
+    "pt:jiboias": "serpents boas",
+    "pt:engolem": "avalent",
+    "pt:suas": "leurs",
+    "pt:presas": "proies",
+    "pt:inteiras": "entières",
+    "pt:sem": "sans",
+    "pt:mastigar": "mâcher",
+    "pt:depois": "ensuite",
+    "pt:não": "ne… pas",
+    "pt:conseguem": "peuvent",
+    "pt:mais": "plus",
+    "pt:se": "se / si",
+    "pt:mover": "bouger",
+    "pt:e": "et",
+    "pt:dormem": "dorment",
+    "pt:durante": "pendant",
+    "pt:os": "les",
+    "pt:meses": "mois",
+    "pt:da": "de la",
+    "pt:digestão": "digestion",
+    "pt:refleti": "ai réfléchi",
+    "pt:muito": "beaucoup",
+    "pt:aventuras": "aventures",
+    "pt:selva": "jungle",
+    "pt:por": "par / pour",
+    "pt:minha": "ma",
+    "pt:consegui": "ai réussi",
+    "pt:traçar": "tracer",
+    "pt:meu": "mon",
+    "pt:primeiro": "premier",
+    "pt:com": "avec",
+    "pt:um": "un",
+    "pt:lápis": "crayon",
+    "pt:de": "de",
+    "pt:cor": "couleur",
+    "pt:número": "numéro",
+    "pt:era": "était",
+    "pt:assim": "ainsi / comme ça",
+    "pt:mostrei": "ai montré",
+    "pt:obra-prima": "chef-d’œuvre",
+    "pt:aos": "aux",
+    "pt:adultos": "grandes personnes",
+    "pt:perguntei": "ai demandé",
+    "pt:lhes": "leur",
+    "pt:dava": "donnait",
+    "pt:medo": "peur",
+    "pt:eles": "ils / elles",
+    "pt:responderam": "ont répondu",
+    "pt:que": "que",
+    "pt:chapéu": "chapeau",
+    "pt:daria": "ferait / donnerait",
+    "pt:representava": "représentait",
+    "pt:digerindo": "digérant",
+    "pt:elefante": "éléphant",
+    "pt:então": "alors",
+    "pt:desenhei": "ai dessiné",
+    "pt:interior": "intérieur",
+    "pt:para": "pour",
+    "pt:pudessem": "puissent",
+    "pt:compreender": "comprendre",
+    "pt:sempre": "toujours",
+    "pt:precisam": "ont besoin",
+    "pt:explicações": "explications",
+    "pt:me": "me",
+    "pt:aconselharam": "ont conseillé",
+    "pt:deixar": "laisser",
+    "pt:lado": "côté",
+    "pt:desenhos": "dessins",
+    "pt:abertas": "ouvertes",
+    "pt:ou": "ou",
+    "pt:fechadas": "fermées",
+    "pt:interessar": "intéresser",
+    "pt:geografia": "géographie",
+    "pt:história": "histoire",
+    "pt:cálculo": "calcul",
+    "pt:gramática": "grammaire",
+    "pt:foi": "fut / a été",
+    "pt:abandonei": "ai abandonné",
+    "pt:carreira": "carrière",
+    "pt:pintor": "peintre",
+    "pt:havia": "avais / avait",
+    "pt:desanimado": "découragé",
+    "pt:fracasso": "insuccès / échec",
+    "pt:dos": "des",
+    "pt:meus": "mes",
+    "pt:nunca": "jamais",
+    "pt:compreendem": "comprennent",
+    "pt:nada": "rien",
+    "pt:sozinhos": "tout seuls",
+    "pt:é": "est",
+    "pt:cansativo": "fatigant",
+    "pt:crianças": "enfants",
+    "pt:ter": "avoir",
+    "pt:dar": "donner",
+    "pt:parar": "arrêter",
+    "pt:precisei": "ai dû",
+    "pt:escolher": "choisir",
+    "pt:outra": "autre",
+    "pt:profissão": "métier",
+    "pt:aprendi": "ai appris",
+    "pt:pilotar": "piloter",
+    "pt:aviões": "avions",
+    "pt:voei": "ai volé",
+    "pt:pouco": "peu",
+    "pt:todo": "tout",
+    "pt:mundo": "monde",
+    "pt:fato": "fait",
+    "pt:útil": "utile",
+    "pt:sabia": "savais",
+    "pt:distinguir": "reconnaître / distinguer",
+    "pt:à": "à",
+    "pt:primeira": "première",
+    "pt:vista": "vue",
+    "pt:china": "Chine",
+    "pt:arizona": "Arizona",
+    "pt:isso": "cela / ça",
+    "pt:perdido": "égaré / perdu",
+    "pt:noite": "nuit",
+    "pt:ao": "au",
+    "pt:longo": "long",
+    "pt:vida": "vie",
+    "pt:tive": "ai eu",
+    "pt:muitos": "beaucoup de",
+    "pt:contatos": "contacts",
+    "pt:muita": "beaucoup de",
+    "pt:gente": "gens",
+    "pt:séria": "sérieuse",
+    "pt:convivi": "ai vécu avec",
+    "pt:bem": "bien",
+    "pt:perto": "près",
+    "pt:melhorou": "a amélioré",
+    "pt:opinião": "opinion",
+    "pt:encontrava": "rencontrais",
+    "pt:alguém": "quelqu’un",
+    "pt:parecia": "paraissait",
+    "pt:lúcido": "lucide",
+    "pt:fazia": "faisais",
+    "pt:experiência": "expérience",
+    "pt:conservei": "ai conservé",
+    "pt:queria": "voulais",
+    "pt:saber": "savoir",
+    "pt:aquela": "cette",
+    "pt:pessoa": "personne",
+    "pt:realmente": "vraiment",
+    "pt:compreensiva": "compréhensive",
+    "pt:mas": "mais",
+    "pt:respondia": "répondait",
+    "pt:lhe": "lui",
+    "pt:falava": "parlais",
+    "pt:nem": "ni",
+    "pt:florestas": "forêts",
+    "pt:virgens": "vierges",
+    "pt:estrelas": "étoiles",
+    "pt:colocava": "mettais",
+    "pt:seu": "son / sa",
+    "pt:nível": "portée / niveau",
+    "pt:bridge": "bridge",
+    "pt:golfe": "golf",
+    "pt:política": "politique",
+    "pt:gravatas": "cravates",
+    "pt:adulto": "grande personne",
+    "pt:ficava": "était / devenait",
+    "pt:contente": "content",
+    "pt:conhecer": "connaître",
+    "pt:homem": "homme",
+    "pt:tão": "aussi / si",
+    "pt:sensato": "raisonnable",
+    "pt:1": "1",
+    "pt:2": "2",
+    "pt:par": "par",
+    "pt:mim": "moi",
+    "fr:en": "em",
+    "fr:d’un": "de um",
+    "fr:d’une": "de uma",
+    "fr:qu’il": "que ele",
+    "fr:d’avoir": "de ter",
+    "fr:moi": "eu / mim",
+    "fr:qu’une": "que uma",
+    "fr:avait": "tinha",
+    "fr:mieux": "melhor",
+    "fr:son": "seu / sua",
+    "fr:ses": "seus / suas",
+    "fr:leurs": "seus / suas",
+    "fr:ce": "esse / isso",
+    "fr:cette": "esta / essa",
+    "fr:ces": "esses / essas",
+    "fr:se": "se",
+    "fr:d’entre": "de entre",
+    "fr:d’être": "de ser / estar",
+    "fr:faire": "fazer",
+    "fr:fait": "feito / faz",
+    "fr:faisait-il": "fazia ele",
+    "fr:m’": "me",
+    "fr:français": "francês",
+    "fr:france": "França",
+    "fr:raison": "razão",
+    "fr:mes": "meus / minhas"
+  },
+  "review": {
+    "translation": false,
+    "voices": false,
+    "illustrations": false,
+    "cover": false,
+    "audio": false
+  }
+}
