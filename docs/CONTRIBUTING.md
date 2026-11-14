@@ -86,7 +86,7 @@ Envie o relato diretamente à proprietária por um canal privado já combinado. 
 
 ### Practices
 
-- `.gitignore` exclui `.env`, fontes, caches e backups privados.
+- `.gitignore` exclui `.env`, fontes, caches e backups privados do Git. `.vercelignore` impede que esses mesmos arquivos entrem em deploys feitos pela CLI; confira os candidatos com `vercel deploy --dry --json` antes de enviar.
 - `src/` não importa os módulos Azure de `scripts/`.
 - Comandos pagos exigem `--execute` e um teto explícito de caracteres.
 - Requisições incertas ficam bloqueadas no cache até reconciliação. Rejeições HTTP 429 confirmadas são registradas separadamente e podem ser retomadas após o prazo do serviço; lotes de tradução são espaçados para evitar rajadas.

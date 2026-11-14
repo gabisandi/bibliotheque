@@ -1,0 +1,12 @@
+.git
+.vercel
+node_modules
+dist
+editorial
+backups
+.env
+.env.*
+test-results
+playwright-report
+*.tsbuildinfo
+.DS_Store
